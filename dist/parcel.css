@@ -45,3 +45,33 @@ table {
   @media (min-width: 1200px) {
     .header {
       font-size: 2rem; } }
+
+.forminput-text {
+  font-size: 1.6rem;
+  width: 100%;
+  border: 1px solid #6A6A6A;
+  border-radius: 2px;
+  outline: none;
+  background: #fff;
+  padding: .9rem 1rem;
+  color: #333; }
+
+.forminput-select {
+  font-size: 1.6rem;
+  width: 100%;
+  border: 1px solid #6A6A6A;
+  border-radius: 2px;
+  outline: none;
+  background: #fff;
+  padding: .9rem 1rem;
+  color: #333; }
+
+.forminput-number {
+  font-size: 1.6rem;
+  width: 100%;
+  border: 1px solid #6A6A6A;
+  border-radius: 2px;
+  outline: none;
+  background: #fff;
+  padding: .9rem 1rem;
+  color: #333; }
